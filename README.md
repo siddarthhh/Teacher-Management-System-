@@ -4,6 +4,7 @@ Teacher Management Application
 The Teacher Management Application is a Java-based console application designed to manage teachers' records. It allows users to perform various operations such as adding, updating, filtering, searching, and deleting teacher records. I have implemented an txt file-based system to store teacher records as given in the requirement the program files are present in the src folder.
 
 Features
+
 1.Show all teachers: View a list of all teachers and their details.
 
 2.Add a teacher: Add a new teacher with their full name, date of birth, number of classes, and specialization.
