@@ -1,6 +1,0 @@
-Siddarth S,21,2002-05-30,40,Maths
-Nivetha S,21,2002-05-20,30,Science
-Paul,20,2003-04-02,20,English
-Prathik,23,2000-05-29,35,History
-Sanjit,33,1990-09-09,30,Physics
-Ilakiya,21,2002-03-30,33,Computer Science
